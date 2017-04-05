@@ -1,8 +1,8 @@
 Probe | Constraint | LSST Impact | Complementary Instruments | Complications | Current Constraints |
 ----- | ---------- | ----------- | ------------------------- | ------------- | ------------------- |
-Gaps in Streams | Power at small scale | Increasing number of streams; large distances less suceptible to disk baryons | Gaia; spec. follow-up; w-first | subhalo disruption by disk; gaps from baryons |
+Gaps in Streams | Power at small scale | Increasing number of streams; large distances less suceptible to disk baryons | Gaia; spec. follow-up; WFIRST | subhalo disruption by disk; gaps from baryons |
 Potential from Streams | Halo shape | Increasing number of streams | spectroscopy; Gaia; wfirst | perturbation from large accretion events (MW history); non-equilibrium dynamics |
-Colliding Clusters | self-interaction cross section | Finding colliding clusters; weak-lensing mass mapping; galaxy centroids; gas distribution and mass | chandra/xmm/erosita; w-first; SPT/ACT |
+Colliding Clusters | self-interaction cross section | Finding colliding clusters; weak-lensing mass mapping; galaxy centroids; gas distribution and mass | chandra/xmm/erosita; WFIRST; SPT/ACT |
 Cluster weak lensing mass | decay/annihilation | finding clusters; weak lensing mass profiles | x-rays | agn feedback; mergers (non-equilibrium); Baryon emission lines |
 Cluster galaxy and weak lensing mass profiles | halo shape | finding clusters; deep cluster galaxy catalog; weak lensing mass profiles | | shape & intrinsic alignment of galaxies  |
 Combined probes of cluster central mass profiles| self-interaction | finding clusters; weak lensing mass profiles; galaxy profiles; dynamics of "wobbbling" BCGs; targets for velocity dispersion spectroscopy| spectroscopy | shape & intrinsic alignment of galaxies; photometry de-blending  |
